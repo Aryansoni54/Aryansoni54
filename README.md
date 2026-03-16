@@ -1,3 +1,4 @@
+![logo](https://github.com/Aryansoni54/Aryansoni54/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aryan Soni</h1>
 <h3 align="center">Aspiring Data Scientist & Business Analyst | Python, SQL, Machine Learning</h3>
 
